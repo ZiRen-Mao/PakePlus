@@ -59,6 +59,11 @@ PakePlus is an MIT-licensed open source project with its ongoing development mad
     </tr>
     <tr>
         <td align="center" style="border: 1px solid #ddd; padding: 20px;">
+            <img style="border-radius: 1.5rem" src="https://files.pakeplus.com/sichou.png" width="100"/>
+            <h3 style="margin: 0"><a href="https://code.silkapi.com" target="_blank">丝绸API</a></h3>
+            <p style="margin: 0">Specializing in providing high-speed and stable Codex API relay.</p>
+        </td>
+        <td align="center" style="border: 1px solid #ddd; padding: 20px;">
             <img style="border-radius: 1.5rem" src="https://avatars.githubusercontent.com/u/24789812?s=200&v=4" width="100"/>
             <h3 style="margin: 0"><a href="https://bit.dev/?ref=pakeplus" target="_blank">Bit</a></h3>
             <p style="margin: 0">AI-powered development workspaces</p>
