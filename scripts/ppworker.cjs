@@ -185,9 +185,9 @@ const updateInitRs = (isHtml, startMethod, winState, winConfig) => {
     if (isHtml) {
         winConfig.url = 'index.html'
     } else if (startMethod === 'password') {
-        winConfig.url = 'index.html'
+        winConfig.url = 'pppwd.html'
     } else if (startMethod === 'oncePwd') {
-        winConfig.url = 'index.html'
+        winConfig.url = 'pppwd.html'
     } else {
         console.log('use winConfig url')
     }
